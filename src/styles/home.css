@@ -1,0 +1,31 @@
+.home-content {
+  height: 100vh;
+  position: relative;
+  background-image: url("../images/pexels-vlada-karpovich-4050345.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.welcome-container {
+  background-color: #0000003f;
+  top: 50%;
+  margin-left: 50px;
+  width: 40%;
+  position: relative;
+}
+
+.products-section {
+}
+
+.testimony-carousel {
+  width: 85%;
+  height: 500px;
+}
+
+.testimony-carousel div {
+  /* background-color: green; */
+  /* width: 85%; */
+  /* height: 200px; */
+}
